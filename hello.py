@@ -1,1 +1,2 @@
-print("Hello from AWS!")
+print("Hello from AWS!");
+print("hi");
